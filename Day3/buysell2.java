@@ -1,3 +1,5 @@
+package Day3;
+
 public class buysell2 {
 
     public int buysell2(int[] prices) {
